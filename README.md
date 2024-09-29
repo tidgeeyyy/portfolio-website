@@ -28,23 +28,19 @@ This repository holds the source code for my Web Development Portfolio Project. 
 
 ## How to Clone and Contribute
 
-1. To view and contribute to my project, you can clone the repository directly from my GitHub. Click on the green "Code" button in my GitHub repository, and copy the URL. Then, you can use the following command in your terminal:
+1. Ensure Git is installed and configured on your machine. For installation instructions, visit the official Git website.
+
+2. Clone the repository with this command:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/tidgeeyyy/portfolio-website.git
     ```
 
-    Replace `<repository-url>` with the URL you copied from GitHub.
+    This action creates a local copy of the repository on your device.
 
-2. Alternatively, if you prefer using the command line, you can also clone the repository by visiting my GitHub repository: [My Portfolio Repository](https://github.com/tidgeeyyy/portfolio-website). 
+3. Open your local copy using any IDE or text editor of your choice. If you're using Visual Studio Code, make sure to install the "Go Live" extension to enable a live server for real-time updates as you edit the files.
 
-    Once there, click on the green "Code" button and copy the URL, then use the `git clone` command as mentioned above.
-
-3. After cloning the repository, open it using any IDE or text editor of your choice. If you're using Visual Studio Code, make sure you have the "Live Server" extension installed to enable a live server for real-time updates as you edit the files.
-
-    To start the live server in Visual Studio Code, click the "Go Live" button, usually located at the bottom right. This will initiate the development server and allow you to view your changes in real time.
-
-
+    To start the live server in Visual Studio Code, simply click the "Go Live" button (usually located at the bottom right). This will initiate the development server, allowing you to view changes instantly.
 
 ## HTML Elements and Their Uses
 
