@@ -11,11 +11,11 @@
 
 ## Navigation
 
-1. [My Project Overview](#project-overview)
+1. [My Portflio Overview](#portfolio-overview)
 2. [How to Clone and Contribute](#how-to-clone-and-contribute)
 3. [HTML Elements and Their Uses](#html-elements-and-their-uses)
 
-## My Project Overview
+## My Portfolio Overview
 
 This repository holds the source code for my Web Development Portfolio Project. It is crafted entirely in HTML and it contains various sections:
 
