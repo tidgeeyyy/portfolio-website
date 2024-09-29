@@ -38,9 +38,9 @@ This repository holds the source code for my Web Development Portfolio Project. 
 
     Replace `<repository-url>` with the URL you copied.
 
-3. Open the cloned repository using any IDE or text editor of your choice. If you're using Visual Studio Code, install the "Go Live" extension to enable a live server for real-time updates as you edit the files.
+3. Open the cloned repository using any IDE or text editor of your choice. If you're using Visual Studio Code, make sure you have the "Live Server" extension installed to enable a live server for real-time updates as you edit the files.
 
-    To start the live server in Visual Studio Code, simply click the "Go Live" button (usually located at the bottom right). This will initiate the development server.
+    To start the live server in Visual Studio Code, click the "Go Live" button, usually located at the bottom right. This will initiate the development server and allow you to view your changes in real time.
 
 
 ## HTML Elements and Their Uses
