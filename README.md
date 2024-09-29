@@ -28,19 +28,22 @@ This repository holds the source code for my Web Development Portfolio Project. 
 
 ## How to Clone and Contribute
 
-1. To view and contribute to my project, visit my GitHub repository: [My Portfolio Repository](https://github.com/tidgeeyyy/portfolio-website).
-
-2. To clone the repository, click on the green "Code" button and copy the URL. You can then use the following command in your terminal:
+1. To view and contribute to my project, you can clone the repository directly from my GitHub. Click on the green "Code" button in my GitHub repository, and copy the URL. Then, you can use the following command in your terminal:
 
     ```bash
     git clone <repository-url>
     ```
 
-    Replace `<repository-url>` with the URL you copied.
+    Replace `<repository-url>` with the URL you copied from GitHub.
 
-3. Open the cloned repository using any IDE or text editor of your choice. If you're using Visual Studio Code, make sure you have the "Live Server" extension installed to enable a live server for real-time updates as you edit the files.
+2. Alternatively, if you prefer using the command line, you can also clone the repository by visiting my GitHub repository: [My Portfolio Repository](https://github.com/tidgeeyyy/portfolio-website). 
+
+    Once there, click on the green "Code" button and copy the URL, then use the `git clone` command as mentioned above.
+
+3. After cloning the repository, open it using any IDE or text editor of your choice. If you're using Visual Studio Code, make sure you have the "Live Server" extension installed to enable a live server for real-time updates as you edit the files.
 
     To start the live server in Visual Studio Code, click the "Go Live" button, usually located at the bottom right. This will initiate the development server and allow you to view your changes in real time.
+
 
 
 ## HTML Elements and Their Uses
