@@ -11,7 +11,7 @@
 
 ## Navigation
 
-1. [My Portflio Overview](#portfolio-overview)
+1. [My Portfolio Overview](#portfolio-overview)
 2. [How to Clone and Contribute](#how-to-clone-and-contribute)
 3. [HTML Elements and Their Uses](#html-elements-and-their-uses)
 
