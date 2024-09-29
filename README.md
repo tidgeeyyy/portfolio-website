@@ -9,7 +9,7 @@
 
 </div>
 
-## Table of Contents
+## Navigation
 
 1. [My Project Overview](#project-overview)
 2. [How to Clone and Contribute](#how-to-clone-and-contribute)
