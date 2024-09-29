@@ -11,36 +11,37 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
+1. [My Project Overview](#project-overview)
 2. [How to Clone and Contribute](#how-to-clone-and-contribute)
 3. [HTML Elements and Their Uses](#html-elements-and-their-uses)
 
-## Project Overview
+## My Project Overview
 
-This repository holds the source code for my Web Development portfolio project. It is crafted entirely in HTML and encompasses various sections:
+This repository holds the source code for my Web Development Portfolio Project. It is crafted entirely in HTML and it contains various sections:
 
 - **Header**: Features my profile picture and navigation links for easy access to different parts of the document.
 - **About**: A brief insight into my background and my coding journey.
 - **Projects**: A showcase of my past projects, including the technologies used and links to their GitHub repositories.
 - **Skills**: A rundown of the technologies I’m proficient in and those I’m currently learning, presented with their respective skill levels.
-- **Contact**: A placeholder section for contacting me through the website (not functional yet).
+- **Contact**: A placeholder section for contacting me through the website.
 - **Footer**: Contains links to my social media profiles.
 
 ## How to Clone and Contribute
 
-1. Ensure Git is installed and configured on your machine. For installation instructions, visit the official Git website.
+1. To view and contribute to my project, visit my GitHub repository: [My Portfolio Repository](https://github.com/tidgeeyyy/portfolio-website).
 
-2. Clone the repository with this command:
+2. To clone the repository, click on the green "Code" button and copy the URL. You can then use the following command in your terminal:
 
     ```bash
-    git clone https://github.com/tidgeeyyy/portfolio-website.git
+    git clone <repository-url>
     ```
 
-    This action creates a local copy of the repository on your device.
+    Replace `<repository-url>` with the URL you copied.
 
-3. Open your local copy using any IDE or text editor of your choice. If you're using Visual Studio Code, install the "Go Live" extension to enable a live server for real-time updates as you edit the files.
+3. Open the cloned repository using any IDE or text editor of your choice. If you're using Visual Studio Code, install the "Go Live" extension to enable a live server for real-time updates as you edit the files.
 
     To start the live server in Visual Studio Code, simply click the "Go Live" button (usually located at the bottom right). This will initiate the development server.
+
 
 ## HTML Elements and Their Uses
 
